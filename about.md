@@ -3,28 +3,22 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Este proyecto intenta hacer accesible la creación de títeres mediante el medio de la impresión 3D. En terminos técnicos planeamos compartir todos archivos que compongan el objeto 3D. Estó incluye los archivos .stl, .3dm y todo archivo que sirvío como referencia en el proceso de creación. Nuestro fin es crear los mecanismos necesarios que le brinde movimiento al títere, o titeres, que se deseen crear. Esperemos que nuestros modelos les sirva modelos para construir los suyos. 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+En estos momentos tenemos dos proyectos principales corriendo en paralelo. Uno de estos proyectos desea generar archivos en función de la creación de nuevos instrumentos músicales y, el otro, generar mecanismos de movimiento para títeres de mesa.
 
-There are currently two themes built on Poole:
+## ¿Quienes Somos?
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Casa Múcaro es un espacio donde creemos en la transformación social y artística. Acá se comparte, educa y crea. Estamos localizados en las montañas del municipio de Las Marías, Puerto Rico. Esta es nuestra bitácora de nuestras impresiones en 3D.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## ¿Donde estamos?
+En este momento estamos en una etapa inicial donde nos estamos familiarizando con las referencias sacadas de un libro escrito por Hansjürgen Fettig (Rod Puppets & Table-Top Puppets). Este libro tiene poca circulación por el mundo y hemos decidido replicar algunas de sus modelos con nuestras alteraciones. Esperemos que este proyecto crezca con la aportación de todo aquel que se interese en el proyecto. Esteremos imprimiendo en las próximas semanas.
 
-## Setup
+## Autores
+Bill Birdsall, Rene Duchesne y Pablo Varona.
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
+## Ayuda
+¿Teniendo algún problema con las impresiones? En este momento no tenemos documentación alguna pero la estaremos generando en un futuro cercano. Mientras tanto nos puede escribir a: info@casamucaro.com
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
 Thanks for reading!
