@@ -9,8 +9,7 @@ permalink:        pretty
 title:            Impresiones3D
 tagline:          ''
 description:      'En estos momentos tenemos dos proyectos principales corriendo en paralelo: la creación de nuevos instrumentos músicales y, el otro, generar mecanismos de movimiento para títeres de mesa (por ahora).'
-url:              https://github.com/Casa-Mucaro/Impresiones3D
-baseurl:          http://casa-mucaro.github.io/Impresiones3D/
+url:              http://casa-mucaro.github.io/Impresiones3D/
 
 author:
   name:           'Casa Múcaro'
