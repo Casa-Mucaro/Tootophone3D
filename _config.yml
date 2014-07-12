@@ -1,24 +1,26 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Impresiones3D
-tagline:          ''
-description:      'En estos momentos tenemos dos proyectos principales corriendo en paralelo: la creación de nuevos instrumentos músicales y, el otro, generar mecanismos de movimiento para títeres de mesa (por ahora).'
-url:              http://casa-mucaro.github.io/Impresiones3D/
+title:            Casa Múcaro
+tagline:          Impresiones3D
+description:      Bitácora de Impresión
+url:              https://github.com/Casa-Mucaro/Impresiones3D
+baseurl:          /
 
 author:
-  name:           'Casa Múcaro'
-  url:            http://casamucaro.com
+  name:           Casa Múcaro
+  url:            
 
-paginate:         5
+paginate: 5
 
 # Custom vars
-version:          2.0.0
+version:     
+     
+github:           
+  repo:           https://github.com/Casa-Mucaro/Impresiones3D
 
-github:
-  repo:           

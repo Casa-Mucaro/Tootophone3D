@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Casa Múcaro</title>
+ <link href="https://github.com/Casa-Mucaro/Impresiones3D/atom.xml" rel="self"/>
+ <link href="https://github.com/Casa-Mucaro/Impresiones3D/"/>
+ <updated>2014-07-12T15:15:30-04:00</updated>
+ <id>https://github.com/Casa-Mucaro/Impresiones3D</id>
+ <author>
+   <name>Casa Múcaro</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Que Son Impresiones3d</title>
+   <link href="https://github.com/Casa-Mucaro/Impresiones3D/2014/07/07/que-son-impresiones3d/"/>
+   <updated>2014-07-07T00:00:00-04:00</updated>
+   <id>https://github.com/Casa-Mucaro/Impresiones3D/2014/07/07/que-son-impresiones3d</id>
+   <content type="html">&lt;h2&gt;Impresiones 3D&lt;/h2&gt;
+
+&lt;p&gt;Este proyecto intenta hacer accesible la creación de títeres mediante el medio de la impresión 3D. En terminos técnicos planeamos compartir todos archivos que compongan el objeto 3D. Estó incluye los archivos .stl, .3dm y todo archivo que sirvío como referencia en el proceso de creación. Nuestro fin es crear los mecanismos necesarios que le brinde movimiento al títere, o titeres, que se deseen crear. Esperemos que nuestros modelos les sirva modelos para construir los suyos. &lt;/p&gt;
+
+&lt;p&gt;En estos momentos tenemos dos proyectos principales corriendo en paralelo. Uno de estos proyectos desea generar archivos en función de la creación de nuevos instrumentos músicales y, el otro, generar mecanismos de movimiento para títeres de mesa.&lt;/p&gt;
+
+&lt;h2&gt;¿Quienes Somos?&lt;/h2&gt;
+
+&lt;p&gt;Casa Múcaro es un espacio donde creemos en la transformación social y artística. Acá se comparte, educa y crea. Estamos localizados en las montañas del municipio de Las Marías, Puerto Rico. Esta es nuestra bitácora de nuestras impresiones en 3D.&lt;/p&gt;
+
+&lt;h2&gt;¿Donde estamos?&lt;/h2&gt;
+
+&lt;p&gt;En este momento estamos en una etapa inicial donde nos estamos familiarizando con las referencias sacadas de un libro escrito por Hansjürgen Fettig (Rod Puppets &amp;amp; Table-Top Puppets). Este libro tiene poca circulación por el mundo y hemos decidido replicar algunas de sus modelos con nuestras alteraciones. Esperemos que este proyecto crezca con la aportación de todo aquel que se interese en el proyecto. Esteremos imprimiendo en las próximas semanas.&lt;/p&gt;
+
+&lt;h2&gt;Autores&lt;/h2&gt;
+
+&lt;p&gt;Bill Birdsall, Rene Duchesne y Pablo Varona.&lt;/p&gt;
+
+&lt;h2&gt;Ayuda&lt;/h2&gt;
+
+&lt;p&gt;¿Teniendo algún problema con las impresiones? En este momento no tenemos documentación alguna pero la estaremos generando en un futuro cercano. Mientras tanto nos puede escribir a: info@casamucaro.com&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
