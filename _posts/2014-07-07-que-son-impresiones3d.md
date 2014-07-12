@@ -15,4 +15,4 @@ En este momento estamos en una etapa inicial donde nos estamos familiarizando co
 Bill Birdsall, Rene Duchesne y Pablo Varona.
 
 ## Ayuda
-¿Teniendo algún problema con las impresiones? En este momento no tenemos documentación alguna pero la estaremos generando en un futuro cercano. Mientras tanto nos puede escribir a: info@casamucaro.com
+¿Teniendo algún problema con las impresiones? En este momento no tenemos documentación alguna pero la estaremos generando en un futuro cercano. Mientras tanto nos pueden escribir a: <a href="mailto:info@casamucaro.com">info@casamucaro.com</a>.
