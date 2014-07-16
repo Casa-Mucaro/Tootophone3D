@@ -32,7 +32,7 @@ Con esto en mente comenzamos buscando nuestro primer modelo. Bill Birdsall, se a
 
 Luego de las primeras pruebas, pusimos en pausa el diseñar instrumentos musicales y entrar a la experimentación con mecanismos de títeres. Y con esta intención fue como comenzamos a modelar nuestro primer mecanismo: una cabeza parlante. Nuestra meta principal consistia en traducir las imagenes del libro al programa de impresión. De suerte, los planos de la fotocopia tomada ya estaban de perfil y el proceso tomo menos tiempo. 
 
-![Referencia del Libro]({{ site.url }}2014-07-16-El-Comienzo-(parte-1)/images/refcab.webp)
+![Referencia del Libro]({{ site.url }}2014-07-16-El-Comienzo:-parte-1/images/refcab.webp)
 
 El mango fue la primera pieza que optamos por modelar. Enforcarnos en una pieza a la ves, termino siendo una buena estrategía que facilitaba visualizar la funcion de cada pieza y como se relacionaban con las demas. De pronto este termino siendo nuestro método de modelaje, una pieza a la ves iría dictaminando nuestra estética. Fue en este momento que decidimos que en la traducción de estos mecanismos siempre a tratar de adaptarlos a la impresión, por ende, mejorar el diseño referenciado. 
 
