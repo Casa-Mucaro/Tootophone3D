@@ -5,8 +5,8 @@
     <description>Bitácora de Impresión</description>
     <link>https://github.com/Casa-Mucaro/Impresiones3D/</link>
     <atom:link href="https://github.com/Casa-Mucaro/Impresiones3D/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 16 Jul 2014 17:31:38 -0400</pubDate>
-    <lastBuildDate>Wed, 16 Jul 2014 17:31:38 -0400</lastBuildDate>
+    <pubDate>Wed, 16 Jul 2014 17:35:35 -0400</pubDate>
+    <lastBuildDate>Wed, 16 Jul 2014 17:35:35 -0400</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     
       <item>
@@ -45,7 +45,7 @@
 
 &lt;p&gt;Luego de las primeras pruebas, pusimos en pausa el diseñar instrumentos musicales y entrar a la experimentación con mecanismos de títeres. Y con esta intención fue como comenzamos a modelar nuestro primer mecanismo: una cabeza parlante. Nuestra meta principal consistia en traducir las imagenes del libro al programa de impresión. De suerte, los planos de la fotocopia tomada ya estaban de perfil y el proceso tomo menos tiempo. &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://casa-mucaro.github.io/Impresiones3D/2014-07-16-El-Comienzo:-parte-1/images/refcab.webp&quot; alt=&quot;Referencia del Libro&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://casa-mucaro.github.io/Impresiones3D/img/2014-07-16-El-Comienzo:-parte-1/images/refcab.webp&quot; alt=&quot;Referencia del Libro&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;El mango fue la primera pieza que optamos por modelar. Enforcarnos en una pieza a la ves, termino siendo una buena estrategía que facilitaba visualizar la funcion de cada pieza y como se relacionaban con las demas. De pronto este termino siendo nuestro método de modelaje, una pieza a la ves iría dictaminando nuestra estética. Fue en este momento que decidimos que en la traducción de estos mecanismos siempre a tratar de adaptarlos a la impresión, por ende, mejorar el diseño referenciado. &lt;/p&gt;
 
