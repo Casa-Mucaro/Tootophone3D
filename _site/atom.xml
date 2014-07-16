@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Casa Múcaro</title>
- <link href="https://github.com/Casa-Mucaro/Impresiones3D/atom.xml" rel="self"/>
- <link href="https://github.com/Casa-Mucaro/Impresiones3D/"/>
- <updated>2014-07-16T16:52:28-04:00</updated>
- <id>https://github.com/Casa-Mucaro/Impresiones3D</id>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2014-07-16T17:24:00-04:00</updated>
+ <id></id>
  <author>
    <name>Casa Múcaro</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>El Comienzo (parte 1)</title>
-   <link href="https://github.com/Casa-Mucaro/Impresiones3D/2014/07/16/el-comienzo-(Parte-1)/"/>
+   <link href="/2014/07/16/el-comienzo-(Parte-1)/"/>
    <updated>2014-07-16T00:00:00-04:00</updated>
-   <id>https://github.com/Casa-Mucaro/Impresiones3D/2014/07/16/el-comienzo-(Parte-1)</id>
+   <id>/2014/07/16/el-comienzo-(Parte-1)</id>
    <content type="html">&lt;h2&gt;El Comienzo: Parte 1&lt;/h2&gt;
 
 &lt;p&gt;Decidi aventurarme al experimento sin saber muy bien como operaba cualquiera de estas tecnologías. Mi conocimiento se limitaba a solo leer algunas noticias, o foros, que hablan sobre el tema. Sin embargo, con solo desearlo tome una decisión.&lt;/p&gt;
@@ -51,7 +51,7 @@
 
 &lt;p&gt;Luego de las primeras pruebas, pusimos en pausa el diseñar instrumentos musicales y entrar a la experimentación con mecanismos de títeres. Y con esta intención fue como comenzamos a modelar nuestro primer mecanismo: una cabeza parlante. Nuestra meta principal consistia en traducir las imagenes del libro al programa de impresión. De suerte, los planos de la fotocopia tomada ya estaban de perfil y el proceso tomo menos tiempo. &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://github.com/Casa-Mucaro/Impresiones3D/assets/refcab.png&quot; alt=&quot;Referencia del Libro&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;2014-07-16-El-Comienzo-(parte-1)/images/refcab.webp&quot; alt=&quot;Referencia del Libro&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;El mango fue la primera pieza que optamos por modelar. Enforcarnos en una pieza a la ves, termino siendo una buena estrategía que facilitaba visualizar la funcion de cada pieza y como se relacionaban con las demas. De pronto este termino siendo nuestro método de modelaje, una pieza a la ves iría dictaminando nuestra estética. Fue en este momento que decidimos que en la traducción de estos mecanismos siempre a tratar de adaptarlos a la impresión, por ende, mejorar el diseño referenciado. &lt;/p&gt;
 
@@ -67,9 +67,9 @@
  
  <entry>
    <title>Que Son Impresiones3d</title>
-   <link href="https://github.com/Casa-Mucaro/Impresiones3D/2014/07/07/que-son-impresiones3d/"/>
+   <link href="/2014/07/07/que-son-impresiones3d/"/>
    <updated>2014-07-07T00:00:00-04:00</updated>
-   <id>https://github.com/Casa-Mucaro/Impresiones3D/2014/07/07/que-son-impresiones3d</id>
+   <id>/2014/07/07/que-son-impresiones3d</id>
    <content type="html">&lt;h2&gt;Impresiones 3D&lt;/h2&gt;
 
 &lt;p&gt;Este proyecto intenta hacer accesible la creación de títeres mediante el medio de la impresión 3D. En terminos técnicos planeamos compartir todos archivos que compongan el objeto 3D. Estó incluye los archivos .stl, .3dm y todo archivo que sirvío como referencia en el proceso de creación. Nuestro fin es crear los mecanismos necesarios que le brinde movimiento al títere, o titeres, que se deseen crear. Esperemos que nuestros modelos les sirva modelos para construir los suyos. &lt;/p&gt;
