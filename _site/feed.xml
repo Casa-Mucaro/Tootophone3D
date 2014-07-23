@@ -5,8 +5,8 @@
     <description>Bitácora de Impresión</description>
     <link>https://github.com/Casa-Mucaro/Impresiones3D/</link>
     <atom:link href="https://github.com/Casa-Mucaro/Impresiones3D/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 23 Jul 2014 08:42:15 -0400</pubDate>
-    <lastBuildDate>Wed, 23 Jul 2014 08:42:15 -0400</lastBuildDate>
+    <pubDate>Wed, 23 Jul 2014 10:06:15 -0400</pubDate>
+    <lastBuildDate>Wed, 23 Jul 2014 10:06:15 -0400</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     
       <item>
@@ -53,7 +53,9 @@
 
 &lt;p&gt;Para la cabeza y la boca tuvimos que optar por tomar otra estrategía. Luego de haber tomado varias rutas para llegar a las medidas y formas que visualizamos concluimos que uno de nuestros problemas principales eran las de lograr un objeto, o archivo, que no tuviese errores de impresión y que pudiera adaptarse para la impresión como tal. Primero, ambas son figuras esfericas y no se pueden imprimir causando así nuestro primer reto. Por consiguiente, decidimos cortar ambos objetos por la mitad para acostarlos y mandarlos a su impresión. Utilizamos un conector para asegurar que la esfera cayera en su lugar correcto durante el momento de pegarlo.&lt;/p&gt;
 
-&lt;h3&gt;¿Que imprimiremos despues? (2do y 3er modelo)&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://github.com/Casa-Mucaro/Impresiones3D%20/_assets/cabeza.webp&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
+
+&lt;h3&gt;¿Que imprimiremos despues?&lt;/h3&gt;
 
 &lt;p&gt;Luego de esta primera semana de trabajo con la cabeza, ya estabamos satisfechos con lo que habiamos modelado. Ahora queriamos embalcarnos en otros mecanismos que provocaran otros tipos de movimientos. Continuamos modelando…&lt;/p&gt;
 </description>
