@@ -45,7 +45,7 @@ Continuamos con diseñar nuestros propios conectores y, una especie, de palo fir
 
 Para la cabeza y la boca tuvimos que optar por tomar otra estrategía. Luego de haber tomado varias rutas para llegar a las medidas y formas que visualizamos concluimos que uno de nuestros problemas principales eran las de lograr un objeto, o archivo, que no tuviese errores de impresión y que pudiera adaptarse para la impresión como tal. Primero, ambas son figuras esfericas y no se pueden imprimir causando así nuestro primer reto. Por consiguiente, decidimos cortar ambos objetos por la mitad para acostarlos y mandarlos a su impresión. Utilizamos un conector para asegurar que la esfera cayera en su lugar correcto durante el momento de pegarlo.
 
-![My helpful screenshot]({{ site.url }} /_assets/cabeza.webp)
+! [Cabeza] ({{site.url}}/_assets/20140716/cabeza.webp)
 
 ### ¿Que imprimiremos despues?
 

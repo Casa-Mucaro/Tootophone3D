@@ -4,7 +4,7 @@
  <title>Casa Múcaro</title>
  <link href="https://github.com/Casa-Mucaro/Impresiones3D/atom.xml" rel="self"/>
  <link href="https://github.com/Casa-Mucaro/Impresiones3D/"/>
- <updated>2014-07-23T10:06:15-04:00</updated>
+ <updated>2014-07-25T10:14:00-04:00</updated>
  <id>https://github.com/Casa-Mucaro/Impresiones3D</id>
  <author>
    <name>Casa Múcaro</name>
@@ -59,7 +59,7 @@
 
 &lt;p&gt;Para la cabeza y la boca tuvimos que optar por tomar otra estrategía. Luego de haber tomado varias rutas para llegar a las medidas y formas que visualizamos concluimos que uno de nuestros problemas principales eran las de lograr un objeto, o archivo, que no tuviese errores de impresión y que pudiera adaptarse para la impresión como tal. Primero, ambas son figuras esfericas y no se pueden imprimir causando así nuestro primer reto. Por consiguiente, decidimos cortar ambos objetos por la mitad para acostarlos y mandarlos a su impresión. Utilizamos un conector para asegurar que la esfera cayera en su lugar correcto durante el momento de pegarlo.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://github.com/Casa-Mucaro/Impresiones3D%20/_assets/cabeza.webp&quot; alt=&quot;My helpful screenshot&quot;&gt;&lt;/p&gt;
+&lt;p&gt;! &lt;a href=&quot;/_assets/20140716/cabeza.webp&quot;&gt;Cabeza&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;¿Que imprimiremos despues?&lt;/h3&gt;
 
