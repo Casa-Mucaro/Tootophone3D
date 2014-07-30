@@ -1,6 +1,7 @@
 ---
+...
 layout: page
-title: El Comienzo: Parte 1
+title: !El Comienzo: Parte 1!
 ---
 
 ## El Comienzo: Parte 1
@@ -17,7 +18,7 @@ A pesar de ser una maquina que crea objetos, los pilares de estas creaciones son
 
 A ellas les confiamos que produzcan algo mas que ‘perfecto’ algo que devolvera a quien sea los mismo resultados, siempres. Necesitaba una referencia que me ayudara a prácticar. Y la inspiración la encontre cuando me introdujeron a Rod Puppets & Table-Top Puppets por Hansjürgen Fettig, un libro que contiene una serie de guias de construcción de diversas cantidades de títeres y sus mecanismos de movimientos. A pesar de lo detallado que es el libro, algunas de sus construcciones y mecanismos no eran tan facil reproducir con tal solo seguirlas.
 
-! [Libro] ({{site.url}}/_assets/20140716/reflibro.jpg)
+![Libro]({{site.baseurl}}/_assets/20140716/reflibro.jpg)
 
 De pronto pense en que podría cambiar esta suerte si cambiaba el método y medio de construcción. ¿Por que no tratarlo de imprimir en la impresora?
 
