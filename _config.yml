@@ -9,8 +9,8 @@ permalink:        pretty
 title:            Casa Múcaro
 tagline:          Impresiones3D
 description:      Bitácora de Impresión
-url:              http://casa-mucaro.github.io/Impresiones3D
-baseurl:          
+url:              http://casa-mucaro.github.io
+baseurl:          /Impresiones3D
 
 #underscored folder are ignored by jekyll at build time
 include: _assets
