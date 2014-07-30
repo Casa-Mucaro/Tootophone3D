@@ -3,10 +3,10 @@
   <channel>
     <title>Casa Múcaro</title>
     <description>Bitácora de Impresión</description>
-    <link>https://github.com/Casa-Mucaro/Impresiones3D/</link>
-    <atom:link href="https://github.com/Casa-Mucaro/Impresiones3D/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 25 Jul 2014 10:45:56 -0400</pubDate>
-    <lastBuildDate>Fri, 25 Jul 2014 10:45:56 -0400</lastBuildDate>
+    <link>http://casa-mucaro.github.io/Impresiones3D/</link>
+    <atom:link href="http://casa-mucaro.github.io/Impresiones3D/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 29 Jul 2014 21:39:25 -0400</pubDate>
+    <lastBuildDate>Tue, 29 Jul 2014 21:39:25 -0400</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     
       <item>
@@ -25,15 +25,15 @@
 
 &lt;p&gt;A ellas les confiamos que produzcan algo mas que ‘perfecto’ algo que devolvera a quien sea los mismo resultados, siempres. Necesitaba una referencia que me ayudara a prácticar. Y la inspiración la encontre cuando me introdujeron a Rod Puppets &amp;amp; Table-Top Puppets por Hansjürgen Fettig, un libro que contiene una serie de guias de construcción de diversas cantidades de títeres y sus mecanismos de movimientos. A pesar de lo detallado que es el libro, algunas de sus construcciones y mecanismos no eran tan facil reproducir con tal solo seguirlas.&lt;/p&gt;
 
-&lt;p&gt;! &lt;a href=&quot;https://github.com/Casa-Mucaro/Impresiones3D/_assets/20140716/reflibro.jpg&quot;&gt;Libro&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/_assets/20140716/reflibro.jpg&quot; alt=&quot;Libro&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;De pronto pense en que podría cambiar esta suerte si cambiaba el método y medio de construcción. ¿Por que no tratarlo de imprimir en la impresora?&lt;/p&gt;
 
 &lt;h3&gt;Primer Experimento y Gran Experimento&lt;/h3&gt;
 
-&lt;p&gt;! &lt;a href=&quot;https://github.com/Casa-Mucaro/Impresiones3D/_assets/20140716/molde.jpg&quot;&gt;Molde&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;! &lt;a href=&quot;http://casa-mucaro.github.io/Impresiones3D/_assets/20140716/molde.jpg&quot;&gt;Molde&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;! &lt;a href=&quot;https://github.com/Casa-Mucaro/Impresiones3D/_assets/20140716/flexibleboquilla.jpg&quot;&gt;Boquilla Flexible&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;! &lt;a href=&quot;http://casa-mucaro.github.io/Impresiones3D/_assets/20140716/flexibleboquilla.jpg&quot;&gt;Boquilla Flexible&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Los primeros dias nos mantuvimos fiel a nuestro objetivo inicial: modelar lo que serían los moldes para la creación de un Toothophone, o instrumento musical creado por Bill Birdsall. Tomo un tiempo en lo que nos acostumbrabamos a los programas de modelar en 3D. Tuvimos pasar horas de frente a la computadora viendo tutoriales de todas las funcionalidades y herramientas dentro de estos ‘softwares’.  Aun mas tiempo nos tomamos en lo que nos familiarizabamos con el lenguaje que esta impresora habla. Finalmente, luego de muchas horas navegando foros e imprimiendo pruebas, encontre el metodo mas efectivo de impresión. Que siempre estara sujetos a cambios… dependiendo el experimento.&lt;/p&gt;
 
@@ -45,13 +45,13 @@
 
 &lt;p&gt;En este mismo plano de pensamiento, aterrize en la posibilidad de hacer lo mismo por los títeres. Dirigir todas la posibilidades de creación hacia el mundo de los títeres. Hasta se me ocurrio, que podría ser interesante replicar todos los modelos posibles presentados en el libro de Rod Puppets &amp;amp; Table-Top Puppets. Y, luego estandarizarlos para que otros títeriteros, o interesados, pudieran hacer alteraciones y/o solo imprimir estos modelos ellos mismos. De esta manera, todos los que tuvieran acesso a la impresora (que sorprendentemente ha llegado a lugares remotos) podrán imprimir y construir sus propios muñecos para sus propias presentaciones.&lt;/p&gt;
 
-&lt;p&gt;! &lt;a href=&quot;https://github.com/Casa-Mucaro/Impresiones3D/_assets/20140716/refojos.jpg&quot;&gt;Ojos&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;! &lt;a href=&quot;http://casa-mucaro.github.io/Impresiones3D/_assets/20140716/refojos.jpg&quot;&gt;Ojos&lt;/a&gt; &lt;/p&gt;
 
 &lt;p&gt;Con esto en mente comenzamos buscando nuestro primer modelo. Bill Birdsall, se adelanto y luego de estudiar varias referencias, modelo los mecanismos para mover ojos. Este experimento nos llevo a tres modelos distintos (insertar fotos) A pesar de que parece ser una posible pieza para impresión, en estos momentos aun esta muy lejos de ser una buena impresión. Y con esto aprendimos que los modelos siempre hay que modelarlos pensando en la maquina y metodo que vayas a imprimirlos.&lt;/p&gt;
 
 &lt;h3&gt;La Cabeza Parlante&lt;/h3&gt;
 
-&lt;p&gt;! &lt;a href=&quot;https://github.com/Casa-Mucaro/Impresiones3D/_assets/20140716/cabeza.jpg&quot;&gt;Cabeza&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;! &lt;a href=&quot;http://casa-mucaro.github.io/Impresiones3D/_assets/20140716/cabeza.jpg&quot;&gt;Cabeza&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Luego de las primeras pruebas, pusimos en pausa el diseñar instrumentos musicales y entrar a la experimentación con mecanismos de títeres. A diferencia de los otros dos experimentos pasados muchas de estas figuras son algo mas complejas. En estos casos las referencias pedían ser estudiadas con antelación. La formula iba de esta manera: un objeto imprimible y que estuviera pensada desde la función de sus mecanismos y que cuando finalizada, su movimiento fuera lo mas fiel al de los humanos. &lt;/p&gt;
 
@@ -68,8 +68,8 @@
 &lt;p&gt;Luego de esta primera semana de trabajo con la cabeza, ya estabamos satisfechos con lo que habiamos modelado. Ahora queriamos embalcarnos en otros mecanismos que provocaran otros tipos de movimientos. Continuamos modelando…&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://github.com/Casa-Mucaro/Impresiones3D/2014/07/16/el-comienzo-(Parte-1)/</link>
-        <guid isPermaLink="true">https://github.com/Casa-Mucaro/Impresiones3D/2014/07/16/el-comienzo-(Parte-1)/</guid>
+        <link>http://casa-mucaro.github.io/Impresiones3D/2014/07/16/el-comienzo-(Parte-1)/</link>
+        <guid isPermaLink="true">http://casa-mucaro.github.io/Impresiones3D/2014/07/16/el-comienzo-(Parte-1)/</guid>
         
         
       </item>
@@ -99,8 +99,8 @@
 &lt;p&gt;¿Teniendo algún problema con las impresiones? En este momento no tenemos documentación alguna pero la estaremos generando en un futuro cercano. Mientras tanto nos pueden escribir a: &lt;a href=&quot;mailto:info@casamucaro.com&quot;&gt;info@casamucaro.com&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Jul 2014 00:00:00 -0400</pubDate>
-        <link>https://github.com/Casa-Mucaro/Impresiones3D/2014/07/07/que-son-impresiones3d/</link>
-        <guid isPermaLink="true">https://github.com/Casa-Mucaro/Impresiones3D/2014/07/07/que-son-impresiones3d/</guid>
+        <link>http://casa-mucaro.github.io/Impresiones3D/2014/07/07/que-son-impresiones3d/</link>
+        <guid isPermaLink="true">http://casa-mucaro.github.io/Impresiones3D/2014/07/07/que-son-impresiones3d/</guid>
         
         
       </item>

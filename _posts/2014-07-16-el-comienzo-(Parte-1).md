@@ -1,7 +1,6 @@
 ---
-...
 layout: page
-title: !El Comienzo: Parte 1!
+title: El Comienzo: Parte 1
 ---
 
 ## El Comienzo: Parte 1
