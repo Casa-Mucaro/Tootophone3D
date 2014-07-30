@@ -24,9 +24,9 @@ De pronto pense en que podría cambiar esta suerte si cambiaba el método y medi
 
 ### Primer Experimento y Gran Experimento
 
-! [Molde] ({{site.url}}/_assets/20140716/molde.jpg)
+![Molde]({{site.url}}/_assets/20140716/molde.jpg)
 
-! [Boquilla Flexible] ({{site.url}}/_assets/20140716/flexibleboquilla.jpg)
+![Boquilla Flexible]({{site.url}}/_assets/20140716/flexibleboquilla.jpg)
 
 Los primeros dias nos mantuvimos fiel a nuestro objetivo inicial: modelar lo que serían los moldes para la creación de un Toothophone, o instrumento musical creado por Bill Birdsall. Tomo un tiempo en lo que nos acostumbrabamos a los programas de modelar en 3D. Tuvimos pasar horas de frente a la computadora viendo tutoriales de todas las funcionalidades y herramientas dentro de estos ‘softwares’.  Aun mas tiempo nos tomamos en lo que nos familiarizabamos con el lenguaje que esta impresora habla. Finalmente, luego de muchas horas navegando foros e imprimiendo pruebas, encontre el metodo mas efectivo de impresión. Que siempre estara sujetos a cambios… dependiendo el experimento.
 
@@ -38,13 +38,13 @@ Pero aun el molde queda sin completar, ya que estamos experimentando de otras ma
 
 En este mismo plano de pensamiento, aterrize en la posibilidad de hacer lo mismo por los títeres. Dirigir todas la posibilidades de creación hacia el mundo de los títeres. Hasta se me ocurrio, que podría ser interesante replicar todos los modelos posibles presentados en el libro de Rod Puppets & Table-Top Puppets. Y, luego estandarizarlos para que otros títeriteros, o interesados, pudieran hacer alteraciones y/o solo imprimir estos modelos ellos mismos. De esta manera, todos los que tuvieran acesso a la impresora (que sorprendentemente ha llegado a lugares remotos) podrán imprimir y construir sus propios muñecos para sus propias presentaciones.
 
-! [Ojos] ({{site.url}}/_assets/20140716/refojos.jpg) 
+![Ojos]({{site.url}}/_assets/20140716/refojos.jpg) 
 
 Con esto en mente comenzamos buscando nuestro primer modelo. Bill Birdsall, se adelanto y luego de estudiar varias referencias, modelo los mecanismos para mover ojos. Este experimento nos llevo a tres modelos distintos (insertar fotos) A pesar de que parece ser una posible pieza para impresión, en estos momentos aun esta muy lejos de ser una buena impresión. Y con esto aprendimos que los modelos siempre hay que modelarlos pensando en la maquina y metodo que vayas a imprimirlos.
 
 ### La Cabeza Parlante
 
-! [Cabeza] ({{site.url}}/_assets/20140716/cabeza.jpg)
+![Cabeza]({{site.url}}/_assets/20140716/cabeza.jpg)
 
 Luego de las primeras pruebas, pusimos en pausa el diseñar instrumentos musicales y entrar a la experimentación con mecanismos de títeres. A diferencia de los otros dos experimentos pasados muchas de estas figuras son algo mas complejas. En estos casos las referencias pedían ser estudiadas con antelación. La formula iba de esta manera: un objeto imprimible y que estuviera pensada desde la función de sus mecanismos y que cuando finalizada, su movimiento fuera lo mas fiel al de los humanos. 
 
