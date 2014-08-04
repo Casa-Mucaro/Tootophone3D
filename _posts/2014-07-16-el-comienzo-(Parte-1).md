@@ -1,5 +1,4 @@
 ---
-...
 layout: page
 title: 'El Comienzo: Parte 1'
 ---
